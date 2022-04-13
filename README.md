@@ -1,7 +1,7 @@
 
 # <div align="center">Hi there 👋</div>
 
-## <div align="center">Tech Stack</div>
+<h2><div align="center">Tech Stack</div><h2>
   
 ### <div align="center">Techs that I've used at least once</div>  
 
