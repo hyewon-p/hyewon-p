@@ -1,5 +1,5 @@
-<div align="center">
-<h2>Hi there 👋</h2>
+
+## <div align="center">Hi there 👋</div></h2>
 
 <h3>Tech Stack<h3>
   
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
